@@ -228,3 +228,30 @@ a {
         transform: rotate(0);
     }
 }
+
+@media (max-width: 1200px) {
+    .name {
+        font-size: 32px; 
+    }
+
+    .h2 {
+        font-size: 22px; 
+    }
+
+    .introduce {
+        font-size: 18px; 
+    }
+}
+@media (max-width: 835px) {
+    .name {
+        font-size: 26px; 
+    }
+
+    .h2 {
+        font-size: 16px; 
+    }
+
+    .introduce {
+        font-size: 14px; 
+    }
+}
