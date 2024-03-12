@@ -255,3 +255,16 @@ a {
         font-size: 14px; 
     }
 }
+@media (max-width: 550px) {
+    .name {
+        font-size: 22px; 
+    }
+
+    .h2 {
+        font-size: 12px; 
+    }
+
+    .introduce {
+        font-size: 10px; 
+    }
+}
